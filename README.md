@@ -10,7 +10,11 @@ para o App fazer a ordenação.
 
 para instalar:
 ```
+git clone https://github.com/dougpetronilio/SortingServiceBooks.git
 
+java -jar target/simple-1.0-SNAPSHOT.jar <arquivo_config_orders.xml>
+
+<arquivo_config_orders.xml> pode ser usado = OrdersConfig1.xml, OrdersConfig2.xml, OrdersConfig3.xml
 
 ```
 
