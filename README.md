@@ -12,10 +12,13 @@ para instalar:
 ```
 git clone https://github.com/dougpetronilio/SortingServiceBooks.git
 
+```
+
+para executar:
+```
 java -jar target/simple-1.0-SNAPSHOT.jar <arquivo_config_orders.xml>
 
 <arquivo_config_orders.xml> pode ser usado = OrdersConfig1.xml, OrdersConfig2.xml, OrdersConfig3.xml
-
 ```
 
 Para configurar os arquivos xml:
