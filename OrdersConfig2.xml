@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configs>
+	<OrderConfig>
+		<key>author</key>
+		<value>asc</value>
+	</OrderConfig>
+	
+	<OrderConfig>
+		<key>title</key>
+		<value>desc</value>
+	</OrderConfig>
+</Configs>

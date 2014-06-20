@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configs>
+	<OrderConfig>
+		<key>edition</key>
+		<value>desc</value>
+	</OrderConfig>
+	
+	<OrderConfig>
+		<key>author</key>
+		<value>desc</value>
+	</OrderConfig>
+	
+	<OrderConfig>
+		<key>title</key>
+		<value>asc</value>
+	</OrderConfig>
+</Configs>
