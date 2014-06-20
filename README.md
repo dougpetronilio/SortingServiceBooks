@@ -1,4 +1,4 @@
-## sorting_service_books
+## SortingServiceBooks
 
 Este App foi desenvolvida para ordenar um array de books utilizando varias condições.
 Podemos ordenar por qualquer atributo da classe Book(title, author, edition) de forma ascendente ou descendente.
